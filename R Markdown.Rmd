@@ -1,0 +1,11 @@
+---
+title: "R Markdown"
+author: "Aura Fae A. Evangelista"
+date: "11/2/2020"
+output:
+  word_document: default
+  html_document: default
+---
+
+## This is a markdown file
+
